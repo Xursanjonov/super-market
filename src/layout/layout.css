@@ -1,0 +1,14 @@
+.layout {
+    max-width: 1920px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    background-color: #ddd;
+}
+.layoutOpen {
+    max-width: 1920px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    background-color: #ddd;
+}
